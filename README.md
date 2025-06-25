@@ -46,6 +46,9 @@ Which commodity has the highest number of data points available?
 ![image](https://github.com/user-attachments/assets/292c550f-4e14-4a89-809c-d51f96c14301)
 ![image](https://github.com/user-attachments/assets/c83aba53-b377-4b74-8206-28db62294b92)
 
+**Output:**
+![image](https://github.com/user-attachments/assets/695215e0-ff22-40cc-b2a3-7e34e1947155)
+
 
 
 
