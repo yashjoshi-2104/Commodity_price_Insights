@@ -6,7 +6,7 @@ This project aims to analyze commodity price data across Indian states and citie
 
 **Queries**
 
-1)Question 1: Get the common commodities between the Top 10 costliest commodities of 2019 and 2020.
+# 1)Question 1: Get the common commodities between the Top 10 costliest commodities of 2019 and 2020.
 
 ![image](https://github.com/user-attachments/assets/9746d996-40f0-4aae-b86c-21bfdc0e088b)
 ![image](https://github.com/user-attachments/assets/9d0156f0-0482-4555-8c96-c0b4f2bb9901)
@@ -15,7 +15,7 @@ This project aims to analyze commodity price data across Indian states and citie
 **Output:**
 ![image](https://github.com/user-attachments/assets/66904f46-2c96-406e-8493-7de053e5c5db)
 
-2)Question 2: What is the maximum difference between the prices of a commodity at one place vs the other 
+# 2)Question 2: What is the maximum difference between the prices of a commodity at one place vs the other 
 for the month of Jun 2020? Which commodity was it for?
 
 ![image](https://github.com/user-attachments/assets/4eef909b-f5d5-4c94-b920-9d57d341c5d0)
@@ -23,7 +23,7 @@ for the month of Jun 2020? Which commodity was it for?
 **Output:**
 ![image](https://github.com/user-attachments/assets/43796bdb-04ea-4220-ac27-ffef5df5fdda)
 
-3)Question 3: Arrange the commodities in order based on the number of varieties in which they are available, 
+# 3)Question 3: Arrange the commodities in order based on the number of varieties in which they are available, 
 with the highest one shown at the top. Which is the 3rd commodity in the list?
 
 ![image](https://github.com/user-attachments/assets/f8c2daba-3c9b-4115-bfb1-642567ea4124)
@@ -31,7 +31,7 @@ with the highest one shown at the top. Which is the 3rd commodity in the list?
 **Output:**
 ![Screenshot 2025-06-25 130245](https://github.com/user-attachments/assets/6ef26c5b-3b1c-4a1b-9445-80465d9ab091)
 
-4)Question 4: In the state with the least number of data points available. 
+# 4)Question 4: In the state with the least number of data points available. 
 Which commodity has the highest number of data points available?
 
 ![image](https://github.com/user-attachments/assets/498fe8ff-f472-47a3-8078-034f3fa28aae)
@@ -39,7 +39,7 @@ Which commodity has the highest number of data points available?
 **Output:**
 ![image](https://github.com/user-attachments/assets/5d09ffb5-9b18-49fd-9ebb-e554739a16a8)
 
-5)Question 5: What is the price variation of commodities for each city from Jan 2019 to Dec 2020. 
+# 5)Question 5: What is the price variation of commodities for each city from Jan 2019 to Dec 2020. 
 	Which commodity has seen the highest price variation and in which city?
 
 ![image](https://github.com/user-attachments/assets/589033e3-f255-4513-8b2c-ea76bfbaecdc)
